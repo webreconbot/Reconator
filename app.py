@@ -774,7 +774,7 @@ def issues():
 
 @app.route("/about")
 def about():
-  return redirect("https://github.com/gokulapap/Reconator/wiki")
+  return redirect("https://github.com/webreconbot/Reconator/wiki")
 
 #########################################################################
 
